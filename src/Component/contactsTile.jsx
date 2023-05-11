@@ -11,10 +11,10 @@ const ContactsTile = ({ name, number, id, deleteContact, editContact }) => {
 
       <div>
         <button className="btn edit" onClick={editContact}>
-          edit
+          Edit
         </button>
         <button className="btn delete" onClick={deleteContact}>
-          delete
+          Delete
         </button>
       </div>
     </div>

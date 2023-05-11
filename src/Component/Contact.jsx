@@ -111,7 +111,7 @@ function App() {
                 />
               ))
             ) : (
-              <p>No Contact</p>
+              <p>No Contacts yet</p>
             )}
           </div>
         </main>
